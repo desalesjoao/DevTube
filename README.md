@@ -1,5 +1,3 @@
-Aqui está o README sem negritos, sem emojis e apenas com texto comum para você copiar e colar no seu repositório do GitHub:
-
 DevTube - Portal de Aulas de Programação
 Projeto desenvolvido como parte das atividades práticas de desenvolvimento web, utilizando CSS Grid para a estrutura principal do layout e Flexbox para o alinhamento e distribuição dos componentes internos.
 
